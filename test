@@ -1,0 +1,87 @@
+push double(214csq)
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+mul
+mul
+mul
+mul
+mul
+mul
+mul
+mul
+mul
+mul
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+mul
+mul
+mul
+mul
+mul
+mul
+mul
+mul
+mul
+mul
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+mul
+mul
+mul
+mul
+mul
+mul
+mul
+mul
+mul
+mul
+
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+push double(2147483647.0)
+mul
+mul
+mul
+mul
+mul
+mul
+mul
+mul
+mul
+mul
+
+assert double(0.1)
+push double(0.0)
+dump
+exit
